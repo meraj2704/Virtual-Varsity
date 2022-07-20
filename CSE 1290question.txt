@@ -1,0 +1,36 @@
+Northern University, Bangladesh
+Summer 2022
+Final
+Akta hoibo e
+CSE 1290
+40
+1 hour 20 miniutes
+What is algorithm?
+Number of steps
+Number of Function
+Nimber of Method
+Number of loops
+What is time complexity ?
+Counting time
+counting steps
+countibg time for creae a program
+Counting 
+for(i =1; i<=n; i++) , Here time complexity is 
+n^3
+n^2
+n
+log n
+Insertation sort time complexity is 
+n
+n log n
+log n
+n^2
+for(i=1; i<10; i++), what is best case of this loop ?
+O(1)
+O(n)
+O(log n)
+O(n^2)
+Explain Insertation sort.
+Exaplain Quick sort
+Explain Coplete tree.
+What is recursion?

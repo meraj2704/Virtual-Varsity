@@ -1,0 +1,36 @@
+Northern University, Bangladesh
+Summer 2021
+Mid term
+SDT
+CSE-1290
+40
+1 hour 20 miniute
+For String Input, which Function use?
+inline
+stringline
+getline
+arrayline
+which function use for print?
+cat
+cout
+coot
+cin
+Which function use for input?
+cin
+cout
+spot
+root
+a statement ends with :
+;
+,
+.
+!
+Which of them is true?
+while(5)
+if(3>5)
+while(0)
+if(6==0)
+what is class ?
+What is Object?
+What is Function Oveloading?
+Differnce in c & c++.
